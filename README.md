@@ -21,13 +21,24 @@ In total, six machine learning algorithms were applied to the 2019 Q1 Loan datas
 Results for each algorithm are as follows:
 
 Naive Random Oversampling
+![Naive](https://user-images.githubusercontent.com/109499859/217662595-802b76e3-1acf-4c19-bf9c-68f39959cf49.png)
+
 SMOTE Oversampling 
+![SMOTE](https://user-images.githubusercontent.com/109499859/217662659-f457a17b-1b27-433e-b38b-7dc918e0c6f8.png)
+
 Undersampling
+![Undersampling](https://user-images.githubusercontent.com/109499859/217662716-4454f9b2-d167-418f-a4ef-33d15bc916ad.png)
+
 Combination Sampling
+![Combo](https://user-images.githubusercontent.com/109499859/217662751-12e9f775-235c-423a-b174-33671f88dab8.png)
+
 Balanced Random Forest Classifier
+![Random_Forest](https://user-images.githubusercontent.com/109499859/217662794-8930090a-22c5-435c-bebd-117a02aa6757.png)
+
 Easy Ensemble AdaBoost Classifier
+![Easy_Ens](https://user-images.githubusercontent.com/109499859/217662824-6f661f83-735c-49b1-9f55-0206d9d9adda.png)
 
 
 ## Conclusion
-Summary
-The results of this project could allow one to surmise that the Easy Ensemble AdaBoost Classifier machine learning model was the most favorable. This is because the balanced score was 0.93, High Risk pre score was 0.09, High Risk rec score was 0.92, Low Risk pre score was 1.00, and the Low Risk rec score was 0.94. All scores were the highest for this model than any other machine learning model in this project making it the best at accurately gathering positive values in the data set.
+
+
