@@ -40,5 +40,5 @@ Easy Ensemble AdaBoost Classifier
 
 
 ## Conclusion
-
+When comparing the six algorithms applied to this dataset, there is one clear standout. Considering the classification report results, it is difficult to rule out the strength of the positive values returned by the Easy Ensemble algorithm. The accuracy score came in at over 93%. This would mean that this method should correctly predict 93% of risky loan candidates - a valuable insight in the financial tech sector. 
 
